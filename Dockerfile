@@ -1,1 +1,1 @@
-From traefik/traefik:lates
+From traefik/traefik:latest
