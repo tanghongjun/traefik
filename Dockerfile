@@ -1,0 +1,1 @@
+From traefik/traefik:lates
